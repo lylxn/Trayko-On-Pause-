@@ -1,6 +1,6 @@
 <img width="1920" height="791" alt="Trayko Banner" src="https://github.com/user-attachments/assets/5209f5a9-0e67-479c-b199-fcc5e7dbd859" />
 
-# 🎉 Trayko — Discover the Web, Collect Badges Effortlessly
+# 🎉 Trayko - Discover the Web, Collect Badges Effortlessly
 
 Trayko is a lightweight browser extension that transforms everyday browsing into a playful adventure. Unlock badges by stumbling upon hidden internet easter eggs, track your progress in real time, and enjoy a clean, distraction‑free interface.
 
