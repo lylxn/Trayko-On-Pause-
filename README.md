@@ -69,7 +69,7 @@ Installing Trayko is simple:
 ---
 
 ## 📈 Project Status
-Trayko is actively evolving — new badges and easter eggs are added regularly. Contributions, ideas, and feedback are welcome!
+Trayko is actively evolving with new badges and easter eggs are added regularly. Contributions, ideas, and feedback are welcome!
 
 ---
 
